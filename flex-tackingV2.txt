@@ -1,0 +1,435 @@
+{
+  "type": "bubble",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ประเภท : DNGI",
+                "size": "14px",
+                "weight": "bold",
+                "color": "#676767"
+              },
+              {
+                "type": "text",
+                "text": "SO2003151",
+                "size": "22px",
+                "color": "#A9182A",
+                "weight": "bold"
+              },
+              {
+                "type": "text",
+                "text": "DN3011235",
+                "size": "16px",
+                "color": "#373737",
+                "weight": "bold"
+              }
+            ]
+          },
+          {
+            "type": "image",
+            "url": "https://cdn.discordapp.com/attachments/1130113229700477089/1166223919422914620/Group_6657.png?ex=6549b5a9&is=653740a9&hm=944109ff044cb524cddbc0f8e767b49ce8112ed3905cd64fb472e5eacd793fad&",
+            "position": "absolute",
+            "offsetStart": "190px",
+            "size": "115px",
+            "offsetTop": "-16px"
+          }
+        ],
+        "height": "95px",
+        "paddingStart": "16px",
+        "paddingEnd": "16px",
+        "paddingTop": "13px",
+        "backgroundColor": "#ffffff"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "ชื่อลูกค้า",
+                    "size": "12px",
+                    "color": "#676767",
+                    "weight": "bold"
+                  },
+                  {
+                    "type": "text",
+                    "text": "SCG HOME RETAIL COMPANY LIMITED.",
+                    "size": "12px",
+                    "color": "#000000",
+                    "weight": "bold",
+                    "margin": "5px"
+                  }
+                ],
+                "width": "160px"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "วันที่สร้างเอกสาร",
+                    "size": "12px",
+                    "color": "#676767",
+                    "weight": "bold",
+                    "align": "end"
+                  },
+                  {
+                    "type": "text",
+                    "text": "2023-10-17",
+                    "size": "12px",
+                    "color": "#000000",
+                    "weight": "bold",
+                    "align": "end",
+                    "margin": "5px"
+                  }
+                ],
+                "width": "100px"
+              }
+            ],
+            "justifyContent": "space-between"
+          }
+        ],
+        "height": "72px",
+        "backgroundColor": "#F3F3F3",
+        "cornerRadius": "12px",
+        "paddingAll": "12px"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "height": "1px",
+        "backgroundColor": "#A8AAAE",
+        "offsetBottom": "8px"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "รายการสินค้า",
+                "size": "14px",
+                "color": "#A9182A",
+                "weight": "bold"
+              },
+              {
+                "type": "text",
+                "text": "(7 รายการ)",
+                "size": "14px",
+                "color": "#A9182A",
+                "weight": "bold",
+                "align": "end"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "1. วงกบประตู 80x180 (เต็งแดง)",
+                "color": "#373737",
+                "size": "14px",
+                "weight": "bold",
+                "margin": "8px"
+              },
+              {
+                "type": "text",
+                "text": "2. ไม้พื้นโอฬาร ลบเหลี่ยม ลายเสี้ยน 15x300x2.5 (สีโอ๊ค)",
+                "color": "#373737",
+                "size": "14px",
+                "weight": "bold",
+                "margin": "8px"
+              },
+              {
+                "type": "text",
+                "text": "3. บานประตูทึบ 80x180 ขอบ 3\"",
+                "color": "#373737",
+                "size": "14px",
+                "weight": "bold",
+                "margin": "8px"
+              },
+              {
+                "type": "text",
+                "text": "4. กันนก PVC ไตรลอน",
+                "color": "#373737",
+                "size": "14px",
+                "weight": "bold",
+                "margin": "8px"
+              },
+              {
+                "type": "text",
+                "text": "....",
+                "color": "#373737",
+                "size": "14px",
+                "weight": "bold",
+                "margin": "8px"
+              }
+            ]
+          }
+        ],
+        "backgroundColor": "#F3F3F3",
+        "paddingAll": "12px",
+        "offsetBottom": "8px"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "height": "1px",
+        "backgroundColor": "#A8AAAE",
+        "offsetBottom": "8px"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "สถานะเอกสารทั้งหมด :",
+                    "size": "12px",
+                    "weight": "bold",
+                    "color": "#676767",
+                    "offsetStart": "12px"
+                  },
+                  {
+                    "type": "image",
+                    "url": "https://cdn.discordapp.com/attachments/1130113229700477089/1166231471737020436/Group_6658.png?ex=6549bcb2&is=653747b2&hm=64fd53789e819bf869b7243c3c29a93310c30eff69432299112ccc2748559a63&",
+                    "size": "60px",
+                    "offsetBottom": "23px",
+                    "offsetStart": "33px"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [],
+                        "height": "8.5px",
+                        "width": "8.5px",
+                        "backgroundColor": "#B22A3BD9",
+                        "cornerRadius": "2px",
+                        "borderWidth": "0.5px",
+                        "borderColor": "#DADADA"
+                      },
+                      {
+                        "type": "text",
+                        "text": "สีแดง :",
+                        "size": "10px",
+                        "color": "#565656",
+                        "weight": "bold",
+                        "margin": "5px"
+                      }
+                    ],
+                    "alignItems": "center"
+                  },
+                  {
+                    "type": "text",
+                    "text": "คาดว่าจะได้รับสินค้า",
+                    "size": "10px",
+                    "weight": "bold",
+                    "color": "#8D8D8D"
+                  },
+                  {
+                    "type": "text",
+                    "text": "นานกว่า 1 เดือน",
+                    "size": "10px",
+                    "weight": "bold",
+                    "color": "#8D8D8D"
+                  }
+                ],
+                "offsetStart": "12px"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [],
+                        "height": "8.5px",
+                        "width": "8.5px",
+                        "backgroundColor": "#E7A809D9",
+                        "cornerRadius": "2px",
+                        "borderWidth": "0.5px",
+                        "borderColor": "#DADADA"
+                      },
+                      {
+                        "type": "text",
+                        "text": "สีเหลือง :",
+                        "size": "10px",
+                        "color": "#565656",
+                        "weight": "bold",
+                        "margin": "5px"
+                      }
+                    ],
+                    "alignItems": "center"
+                  },
+                  {
+                    "type": "text",
+                    "text": "คาดว่าจะได้รับสินค้า",
+                    "size": "10px",
+                    "weight": "bold",
+                    "color": "#8D8D8D"
+                  },
+                  {
+                    "type": "text",
+                    "text": "ภายในวันที่แจ้ง",
+                    "size": "10px",
+                    "weight": "bold",
+                    "color": "#8D8D8D"
+                  }
+                ],
+                "offsetStart": "20px"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [],
+                        "height": "8.5px",
+                        "width": "8.5px",
+                        "backgroundColor": "#38940AD9",
+                        "cornerRadius": "2px",
+                        "borderWidth": "0.5px",
+                        "borderColor": "#DADADA"
+                      },
+                      {
+                        "type": "text",
+                        "text": "สีเขียว :",
+                        "size": "10px",
+                        "color": "#565656",
+                        "weight": "bold",
+                        "margin": "5px"
+                      }
+                    ],
+                    "alignItems": "center"
+                  },
+                  {
+                    "type": "text",
+                    "text": "ได้รับสินค้า",
+                    "size": "10px",
+                    "weight": "bold",
+                    "color": "#8D8D8D"
+                  },
+                  {
+                    "type": "text",
+                    "text": "เรียบร้อยแล้ว",
+                    "size": "10px",
+                    "weight": "bold",
+                    "color": "#8D8D8D"
+                  }
+                ],
+                "margin": "5px",
+                "offsetStart": "20px"
+              }
+            ],
+            "offsetBottom": "29px"
+          }
+        ],
+        "backgroundColor": "#F3f3f3",
+        "paddingTop": "16px",
+        "paddingBottom": "16px",
+        "height": "102px",
+        "offsetBottom": "8px"
+      }
+    ],
+    "paddingAll": "0px"
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "ดูรายละเอียด",
+              "uri": "http://linecorp.com/"
+            },
+            "style": "primary",
+            "color": "#A9182A"
+          }
+        ]
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://cdn.discordapp.com/attachments/1159127757154959430/1159132440204423389/Group_6609.png?ex=651ec5b5&is=651d7435&hm=fb7219d41071b9dd4d2053fe82b1f0c355d3202b6df362d27dc1cd2fbf644261&",
+            "aspectRatio": "9:1",
+            "aspectMode": "fit"
+          }
+        ],
+        "offsetTop": "10px",
+        "offsetStart": "115px"
+      }
+    ],
+    "offsetBottom": "8px"
+  }
+}
